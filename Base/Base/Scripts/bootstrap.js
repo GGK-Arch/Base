@@ -19,7 +19,7 @@
 * http://www.apache.org/licenses/LICENSE-2.0
 */
 if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
-
+//changes in new branch
 /* ========================================================================
  * Bootstrap: transition.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#transitions
