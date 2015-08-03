@@ -324,7 +324,7 @@ window.matchMedia = window.matchMedia || (function(doc, undefined){
 	//translate CSS
 	ripCSS();
 	
-	//expose update for re-running respond later on
+	//expose update for re-running respond later on asfdsa fsa
 	respond.update = ripCSS;
 	
 	//adjust on resize
